@@ -1,0 +1,20 @@
+papers:
+
+  - title: "Minimum Empirical Divergence for Sub-Gaussian Linear Bandits"
+    authors: "<b>Kapilan Balagopalan</b>, Kwang-Sung Jun"
+    venue: "Arxiv'24: arXiv preprint. 2024."
+    paper_pdf: "/assets/publications/2024_LinMED/paper.pdf"
+    code: "https://github.com/Kapilan-Balagopalan/Linear-Bandit-Algorithms"
+    selected: y
+
+  - title: "Fixing the Loose Brake: Exponential-Tailed Stopping Time in Best Arm Identification"
+    authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Tuan Ngo Nguyen<sup>‡</sup>, Yao Zhao<sup>‡</sup>, Kwang-Sung Jun"
+    venue: "Arxiv'24: arXiv preprint. 2024."
+    paper_pdf: "/assets/publications/2024_BrakeBooster/paper.pdf"
+    selected: y
+
+  - title: "Blind Equalization in the Presence of Co-channel Interference Based on Higher-Order Statistics"
+    authors: "Guohua Wang, <b>Balagobalan Kapilan</b>, Sirajudeen Gulam Razul, Shang-Kee Ting, Chong Meng Samson See"
+    venue: "Circuits, Systems, and Signal Processing. 2028."
+    selected: y
+

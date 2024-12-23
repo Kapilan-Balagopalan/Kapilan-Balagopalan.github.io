@@ -1,0 +1,31 @@
+experiences:
+
+- place: "University of Arizona"
+  time: "2022 - now"
+  title: "Ph.D. Student"
+  subtitle: "Department of Computer Science"
+  category: "school"
+
+- place: "Thales DIS"
+  time: "2020 - 2022"
+  title: "Embedded Software Engineer"
+  subtitle: "Digital Identity and Solutions"
+  category: "work"
+
+- place: "LSEG"
+  time: "2018 - 2020"
+  title: "Engineer - Accelerated Systems"
+  subtitle: "Hardware Acceleration Group"
+  category: "work"
+
+- place: "University of Moratuwa"
+  time: "2014 - 2018"
+  title: "B.Sc. Student"
+  subtitle: "Electronics and Telecommunication Engineering"
+  category: "school"
+
+- place: "Nanyang Technological University"
+  time: "Summer 2016"
+  title: "Research Assistant, Intern"
+  subtitle: "Temasek Laboratory"
+  category: "work"
