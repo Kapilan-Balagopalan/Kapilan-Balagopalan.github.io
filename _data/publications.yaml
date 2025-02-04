@@ -2,7 +2,7 @@ papers:
 
   - title: "Minimum Empirical Divergence for Sub-Gaussian Linear Bandits"
     authors: "<b>Kapilan Balagopalan</b>, Kwang-Sung Jun"
-    venue: "AISTATS'25: International Conference on Artificial Intelligence and Statistics. 2025"
+    venue: "AISTATS'25: International Conference on Artificial Intelligence and Statistics. 2025."
     paper_pdf: "/assets/publications/2024_LinMED/paper.pdf"
     code: "https://github.com/Kapilan-Balagopalan/Linear-Bandit-Algorithms"
     selected: y
