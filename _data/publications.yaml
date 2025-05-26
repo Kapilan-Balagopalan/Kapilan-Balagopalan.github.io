@@ -4,6 +4,7 @@ papers:
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Tuan Ngo Nguyen<sup>‡</sup>, Yao Zhao<sup>‡</sup>, Kwang-Sung Jun"
     venue: "ICML'25: International Conference on Machine Learning. 2025."
     paper_pdf: "/assets/publications/2024_BrakeBooster/paper.pdf"
+    code: "https://github.com/Kapilan-Balagopalan/Brakebooster"
     selected: y
 
   - title: "Minimum Empirical Divergence for Sub-Gaussian Linear Bandits"
