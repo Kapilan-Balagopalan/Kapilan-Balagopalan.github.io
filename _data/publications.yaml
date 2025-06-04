@@ -1,4 +1,8 @@
 papers:
+   - title: "AppleTeA: Test-Time Adaptive LLM Cascading via Logistic Apple Tasting"
+    authors: "Hyowon Wi, <b>Kapilan Balagopalan</b>, Kwang-Sung Jun, Noseong Park"
+    venue: "Second Workshop on Test-Time Adaptation: Putting Updates to the Test! at ICML 2025"
+    selected: y
 
   - title: "Fixing the Loose Brake: Exponential-Tailed Stopping Time in Best Arm Identification"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Tuan Ngo Nguyen<sup>‡</sup>, Yao Zhao<sup>‡</sup>, Kwang-Sung Jun"
