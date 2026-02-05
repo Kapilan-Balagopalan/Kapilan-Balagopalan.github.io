@@ -26,8 +26,12 @@ title: Home
   </p>
 
   <ul class="tab-nav">
-    <li><a class="tab-pane-link active" data-ref="#papers-published">Published</a></li>
-    <li><a class="tab-pane-link" data-ref="#papers-under-review">Under review</a></li>
+    <li>
+      <div class="tab-pane active" data-ref="#papers-published">Published</div>
+    </li>
+    <li>
+      <div class="tab-pane" data-ref="#papers-under-review">Under review</div>
+    </li>
   </ul>
 
   <div class="tab-content">
@@ -43,23 +47,18 @@ title: Home
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
             {% endif %}
-
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
             {% endif %}
-
             {% if paper.poster %}
               <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
             {% endif %}
-
             {% if paper.video %}
               <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
             {% endif %}
-
             {% if paper.code %}
               <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
             {% endif %}
-
             {% if paper.data %}
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
@@ -80,23 +79,18 @@ title: Home
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
             {% endif %}
-
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
             {% endif %}
-
             {% if paper.poster %}
               <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
             {% endif %}
-
             {% if paper.video %}
               <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
             {% endif %}
-
             {% if paper.code %}
               <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
             {% endif %}
-
             {% if paper.data %}
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
@@ -106,6 +100,7 @@ title: Home
     </div>
   </div>
 </div>
+
 
 
 <!-- ========== PROJECTS ========== 
