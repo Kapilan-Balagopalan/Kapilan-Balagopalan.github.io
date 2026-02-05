@@ -1,7 +1,7 @@
 papers:
   - title: "Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Yinan Li<sup>‡</sup>, Yao Zhao, Tuan Ngo Nguyen, Anton Daitche, Houssam Nassif, Kwang-Sung Jun"
-    venue: "<b><i>(under review)</t></b> ICML'26: International Conference on Machine Learning. 2026."
+    venue: "ICML'26: International Conference on Machine Learning. 2026."
     paper_pdf: "/assets/publications/2026_FC2FB/paper.pdf"
     selected: y
     status: under_review
