@@ -1,9 +1,9 @@
 papers:
   - title: "Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Yinan Li<sup>‡</sup>, Yao Zhao, Tuan Ngo Nguyen, Anton Daitche, Houssam Nassif, Kwang-Sung Jun"
-    venue: "ICML'26: International Conference on Machine Learning. 2026."
+    venue: "<b>submitted to</b> ICML'26: International Conference on Machine Learning. 2026."
     paper_pdf: "/assets/publications/2026_FC2FB/paper.pdf"
-    selected: n
+    selected: y
 
   - title: "Fixing the Loose Brake: Exponential-Tailed Stopping Time in Best Arm Identification"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Tuan Ngo Nguyen<sup>‡</sup>, Yao Zhao<sup>‡</sup>, Kwang-Sung Jun"
