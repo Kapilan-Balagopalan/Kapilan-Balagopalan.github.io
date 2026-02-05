@@ -1,9 +1,10 @@
 papers:
   - title: "Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Yinan Li<sup>‡</sup>, Yao Zhao, Tuan Ngo Nguyen, Anton Daitche, Houssam Nassif, Kwang-Sung Jun"
-    venue: "<b><i>(submitted to)</t></b> ICML'26: International Conference on Machine Learning. 2026."
+    venue: "<b><i>(under review)</t></b> ICML'26: International Conference on Machine Learning. 2026."
     paper_pdf: "/assets/publications/2026_FC2FB/paper.pdf"
     selected: y
+    status: under_review
 
   - title: "Fixing the Loose Brake: Exponential-Tailed Stopping Time in Best Arm Identification"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Tuan Ngo Nguyen<sup>‡</sup>, Yao Zhao<sup>‡</sup>, Kwang-Sung Jun"
@@ -11,6 +12,7 @@ papers:
     paper_pdf: "/assets/publications/2024_BrakeBooster/paper.pdf"
     code: "https://github.com/Kapilan-Balagopalan/Brakebooster"
     selected: y
+    status: published
 
   - title: "Minimum Empirical Divergence for Sub-Gaussian Linear Bandits"
     authors: "<b>Kapilan Balagopalan</b>, Kwang-Sung Jun"
@@ -18,10 +20,12 @@ papers:
     paper_pdf: "/assets/publications/2024_LinMED/paper.pdf"
     code: "https://github.com/Kapilan-Balagopalan/Linear-Bandit-Algorithms"
     selected: y
+    status: published
 
   - title: "Blind Equalization in the Presence of Co-channel Interference Based on Higher-Order Statistics"
     authors: "Guohua Wang, <b>Kapilan Balagopalan</b>, Sirajudeen Gulam Razul, Shang-Kee Ting, Chong Meng Samson See"
     venue: "Circuits, Systems, and Signal Processing. 2018."
     paper_pdf: "/assets/publications/2018_BlindEqualization/paper.pdf"
     selected: y
+    status: published
 
