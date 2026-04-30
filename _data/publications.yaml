@@ -4,7 +4,7 @@ papers:
     venue: "ICML'26: International Conference on Machine Learning. 2026."
     paper_pdf: "/assets/publications/2026_FC2FB/paper.pdf"
     selected: y
-    status: under_review
+    status: published
 
   - title: "Fixing the Loose Brake: Exponential-Tailed Stopping Time in Best Arm Identification"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Tuan Ngo Nguyen<sup>‡</sup>, Yao Zhao<sup>‡</sup>, Kwang-Sung Jun"
