@@ -3,7 +3,7 @@ papers:
     authors: "Byeongwoo An<sup>‡</sup>, <b>Kapilan Balagopalan</b><sup>‡</sup>, Sehwa Jeong, Jiun Jeong, Kyoungseok Jang, Hyowon Wi, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun"
     venue: "NeurIPS'26: Advances in Neural Information Processing Systems. 2026."
     selected: y
-    status: under review
+    status: under_review
 
   - title: "Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors"
     authors: "<b>Kapilan Balagopalan</b><sup>‡</sup>, Yinan Li<sup>‡</sup>, Yao Zhao, Tuan Ngo Nguyen, Anton Daitche, Houssam Nassif, Kwang-Sung Jun"
