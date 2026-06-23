@@ -1,6 +1,6 @@
 papers:
   - title: "Efficient Algorithms for Contextual Apple Tasting with Log-Loss"
-    authors: "Byeongwoo An<sup>‡</sup>, <b>Kapilan Balagopalan</b><sup>‡</sup>, Sehwa Jeong, Jiun Jeong, Kyoungseok Jang, Hyowon Wi, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun"
+    authors: "Byeongwoo An<sup>‡</sup>, <b>Kapilan Balagopalan</b><sup>‡</sup>, Hyowon Wi</b><sup>‡</sup>, Sehwa Jeong, Jiun Jeong, Kyoungseok Jang, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun"
     venue: "NeurIPS'26: Neural Information Processing Systems. 2026."
     paper_pdf: "/assets/publications/2026_AT/paper.pdf"
     selected: y
