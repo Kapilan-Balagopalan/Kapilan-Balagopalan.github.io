@@ -1,7 +1,14 @@
 papers:
+  - title: "Efficient contextual partial monitoring with general function approximation"
+    authors: "<b>Kapilan Balagopalan</b>, Hao Qin, Kwang-Sung Jun, Chicheng Zhang"
+    venue: "ICLR'27: International Conference on Learning Representations. 2027."
+    paper_pdf: "/assets/publications/2027_PM/paper.pdf"
+    selected: y
+    status: under_review
+
   - title: "Efficient Algorithms for Contextual Apple Tasting with Log-Loss"
     authors: "Byeongwoo An<sup>‡</sup>, <b>Kapilan Balagopalan</b><sup>‡</sup>, Hyowon Wi</b><sup>‡</sup>, Sehwa Jeong, Jiun Jeong, Kyoungseok Jang, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun"
-    venue: "NeurIPS'26: Neural Information Processing Systems. 2026."
+    venue: "ICLR'27: International Conference on Learning Representations. 2027."
     paper_pdf: "/assets/publications/2026_AT/paper.pdf"
     selected: y
     status: under_review
